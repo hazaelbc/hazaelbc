@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engenering student doing my best.</h3>
 
 - ⚡ Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/media.giphy.com/media/3osxYcz4vYKgdYYLJu/giphy.gif?resize=640%2C272&ssl=1">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/822313860021066206/161730001B0359FBD516838A11618E4CF6CD5009/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hzaelbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hzaelbc" height="30" width="40" /></a>
