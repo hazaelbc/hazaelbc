@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Spinoza</h1>
-<h3 align="center">A Software Engenering student doing my best.</h3>
+<h3 align="center">I'm Software Engenering student doing my best.</h3>
 
 - ⚡ Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/822313860021066206/161730001B0359FBD516838A11618E4CF6CD5009/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
