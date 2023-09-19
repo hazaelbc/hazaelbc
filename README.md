@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Gonzalo Spinoza
+🎬🎞️ Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
 
 
 ## 🌐 Socials:
