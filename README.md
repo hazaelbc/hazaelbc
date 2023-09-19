@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Gonzalo Spinoza</h1>
 <h3>A Software Engenering student doing my best.</h3>
 
-- ⚡ Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
+- 🎬 Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
 
 
 ## 🌐 Socials:
