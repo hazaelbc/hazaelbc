@@ -2,7 +2,7 @@
 <h3>A Software Engenering student doing my best.</h3>
 
 - 🎬 Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/822313860021066206/161730001B0359FBD516838A11618E4CF6CD5009/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img  alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/822313860021066206/161730001B0359FBD516838A11618E4CF6CD5009/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hzaelbc) 
