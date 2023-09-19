@@ -13,7 +13,7 @@
 <br/>  
 <h3 align="left">Support me:</h3>
 <div >
-            <a href="https://paypal.me/HazaelEspinoza01"  target="_blank": inline-block;">
+            <a href="https://paypal.me/HazaelEspinoza01"  target="_blank" style="display:">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
