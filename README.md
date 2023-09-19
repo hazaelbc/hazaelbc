@@ -2,7 +2,6 @@
 <h3 align="center">A Software Engenering student doing my best.</h3>
 
 - ⚡ Fun fact **My favorite movie's are "Fear and Loathing in Las Vegas" and "Donnie Darko"**
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/822313860021066206/161730001B0359FBD516838A11618E4CF6CD5009/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,7 @@
 
 <br/>  
 
-<div align="center">
+<div >
             <a href="https://paypal.me/HazaelEspinoza01" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
