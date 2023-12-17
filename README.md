@@ -34,4 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Descripción del GIF" width="300" />
+</div>
 ###
