@@ -34,4 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
+ <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" height="40" alt="html5 logo"  
 ###
