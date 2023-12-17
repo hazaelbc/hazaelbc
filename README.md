@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo ciber seguridad.<br>🎯 Soy un obsesivo con proyectos, un estelista antes de seguir las reglas.<br>🎲 ENTP-A / ENTP-T</p>
+<p align="left">📚 Actualmente estoy aprendiendo ciber seguridad.<br>🎯 Soy un obsesivo con proyectos, un estelista antes de seguir las reglas.<br>🎲 ENTP-A / ENTP-T.</p>
 
 ###
 
-<h2 align="left">Si tuviera que hacer una lista de mis lenguajes y herramientas, siendo Izquierda mas usados  y derecha menos usados.</h2>
+<h2 align="left">Si tuviera que hacer una lista de mis lenguajes y herramientas, siendo Izquierda mas usados  y derecha menos usados...</h2>
 
 ###
 
