@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo ciber seguridad.<br>🎯 Soy un obsesivo con proyectos, un estelista antes de seguir las reglas.<br>🎲 ENTP-A / ENTP-T.</p>
+<p align="left">📚 Actualmente estoy aprendiendo ciber seguridad.<br>🎯 Soy un obsesivo con proyectos, un estelista antes que todo.<br>🎲 ENTP-A / ENTP-T.</p>
 
 ###
 
