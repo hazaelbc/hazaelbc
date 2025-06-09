@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋 mi nombre es Gonzalo Spinoza</h1>
+<h1 align="left">Hola 👋 mi nombre es Hazael Spinoza</h1>
 
 ###
 
