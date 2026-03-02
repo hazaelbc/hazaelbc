@@ -5,7 +5,7 @@
 ## 🛠️ Perfil Profesional
 * [cite_start]**Frontend & Mobile:** Construcción de interfaces con React, Next.js y Vite, asegurando diseños responsivos y componentes reutilizables. Desarrollo móvil con React Native, Swift y Kotlin.
 * [cite_start]**Backend & Logic:** Implementación de lógica de negocio en NestJS bajo el patrón Controller-Service y servicios asíncronos para el procesamiento de datos.
-* [cite_start]**Infraestructura:** Gestión de bases de datos SQL/NoSQL y despliegue de aplicaciones en Azure utilizando Docker.
+* [cite_start]**Infraestructura:** Gestión de bases de datos SQL/NoSQL y despliegue de aplicaciones en la nube con Azure.
 
 ---
 
