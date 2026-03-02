@@ -1,11 +1,11 @@
 # Gonzalo Espinoza | Fullstack Developer
 
-[cite_start]Desarrollador enfocado en el ciclo de vida completo de aplicaciones web y móviles, desde la arquitectura del backend hasta la implementación de interfaces de usuario[cite: 16, 18, 33].
+[cite_start]Desarrollador enfocado en el ciclo de vida completo de aplicaciones web y móviles, desde la arquitectura del backend hasta la implementación de interfaces de usuario.
 
 ## 🛠️ Perfil Profesional
-* [cite_start]**Frontend & Mobile:** Construcción de interfaces con React, Next.js y Vite, asegurando diseños responsivos y componentes reutilizables[cite: 6, 18, 34]. [cite_start]Desarrollo móvil con React Native, Swift y Kotlin[cite: 6].
-* [cite_start]**Backend & Logic:** Implementación de lógica de negocio en NestJS bajo el patrón Controller-Service y servicios asíncronos para el procesamiento de datos[cite: 11, 17, 20, 27].
-* [cite_start]**Infraestructura:** Gestión de bases de datos SQL/NoSQL y despliegue de aplicaciones en Azure utilizando Docker[cite: 12, 13, 19].
+* [cite_start]**Frontend & Mobile:** Construcción de interfaces con React, Next.js y Vite, asegurando diseños responsivos y componentes reutilizables. Desarrollo móvil con React Native, Swift y Kotlin.
+* [cite_start]**Backend & Logic:** Implementación de lógica de negocio en NestJS bajo el patrón Controller-Service y servicios asíncronos para el procesamiento de datos.
+* [cite_start]**Infraestructura:** Gestión de bases de datos SQL/NoSQL y despliegue de aplicaciones en Azure utilizando Docker.
 
 ---
 
