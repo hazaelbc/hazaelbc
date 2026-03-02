@@ -1,42 +1,34 @@
-# Gonzalo Espinoza
+# Gonzalo Espinoza | Full Stack Web & Mobile Developer
 
-Software Engineer | Web Development | Data Science | Game Dev
+Desarrollador de software especializado en la construcción de aplicaciones web escalables, arquitecturas de backend robustas y soluciones móviles multiplataforma.
 
-Software engineer focus on building scalable web applications, implementing machine learning models for data insights, and developing interactive game worlds.
+## 🛠️ Enfoque Profesional
+* **Desarrollo Web Full Stack:** Creación de interfaces modernas y responsivas con React/Next.js conectadas a backends modulares en NestJS.
+* **Desarrollo Móvil:** Implementación de aplicaciones nativas y multiplataforma utilizando Swift, Kotlin y React Native.
+* **Arquitectura y Cloud:** Diseño de sistemas basados en el patrón Controller-Service y despliegue en infraestructura de Azure.
 
-## Professional Focus
-* **Web Development:** Creation of modern, responsive interfaces and robust backend architectures.
-* **Data Science:** Implementation of computer vision models (YOLO), data analysis, and predictive modeling.
-* **Game Development:** Software architecture and programming for 2D indie projects.
+## 📊 Estadísticas de GitHub
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HazaelEspinoza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact and Socials
-* **Email:** gonzalo.spinoza.2020@gmail.com
+---
+
+## 🚀 Technical Stack
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend & Cloud
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Lenguajes & Herramientas
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📬 Contacto
+* **Email:** [gonzalo.spinoza.2020@gmail.com](mailto:gonzalo.spinoza.2020@gmail.com)
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzaloxspinoza)
 
 ---
-
-## Technical Stack
-
-### Web Development
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-
-### Software Engineering & Other Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazaelbc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## Support
-If you find my work helpful, you can support me here:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HazaelEspinoza01)
-
----
-*Profile visits:*
-[![](https://visitcount.itsvg.in/api?id=hazaelbc&icon=0&color=0)](https://visitcount.itsvg.in)
+*Visitantes:*
+[![](https://visitcount.itsvg.in/api?id=HazaelEspinoza&icon=0&color=0)](https://visitcount.itsvg.in)
