@@ -21,13 +21,8 @@ Desarrollador enfocado en el dominio de múltiples ecosistemas tecnológicos, de
 
 ---
 
-## 📈 Estadísticas de Energía
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HazaelEspinoza&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ## 📬 Conecta Conmigo
-* [cite_start]**Email:** [gonzalo.spinoza.2020@gmail.com](mailto:gonzalo.spinoza.2020@gmail.com) [cite: 3]
+**Email:** [gonzalo.spinoza.2020@gmail.com](mailto:gonzalo.spinoza.2020@gmail.com)
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzaloxspinoza)
 
 ---
